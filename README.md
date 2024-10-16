@@ -2,7 +2,7 @@
 
 🔧 Analista de Sistemas | 💻 Desenvolvimento de Software
 
-Atualmente atuo como Analista de Sistemas, mas almejo me inserir cada vez mais na área de desenvolvimento de software. Tenho experiência nas seguintes tecnologias: C#, Entity Framework, ASP.NET Core, MySQL, PHP, HTML, CSS e JavaScript.
+Atualmente atuo como Analista de Sistemas, mas almejo me inserir cada vez mais na área de desenvolvimento de software. Tenho experiência nas seguintes tecnologias: C#, Entity Framework, ASP.NET Core, MySQL, PHP, Kotlin,  HTML, CSS e JavaScript.
 
 Minha missão é desenvolver softwares bem estruturados, eficientes e que facilitem a vida dos usuários. Acredito que uma boa arquitetura e um código limpo são essenciais para criar aplicações escaláveis e de fácil manutenção.
 
