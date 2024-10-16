@@ -1,5 +1,13 @@
 # Gabriel-Santos-Camargo
 
+🔧 Analista de Sistemas | 💻 Desenvolvimento de Software
+
+Atualmente atuo como Analista de Sistemas, mas almejo me inserir cada vez mais na área de desenvolvimento de software. Tenho experiência nas seguintes tecnologias: C#, Entity Framework, ASP.NET Core, MySQL, PHP, HTML, CSS e JavaScript.
+
+Minha missão é desenvolver softwares bem estruturados, eficientes e que facilitem a vida dos usuários. Acredito que uma boa arquitetura e um código limpo são essenciais para criar aplicações escaláveis e de fácil manutenção.
+
+Sempre buscando aprender mais e me atualizar sobre novas tecnologias, estou comprometido em aprimorar minhas habilidades e contribuir para projetos que fazem a diferença.
+
 <div>
   <a href="https://github.com/Gabriel-S-camargo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-S-camargo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
